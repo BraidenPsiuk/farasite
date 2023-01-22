@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://farason.co/archives/</loc>
+    <loc>https://farason.co/public/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/</loc>
+    <loc>https://farason.co/public/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/css/</loc>
+    <loc>https://farason.co/public/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/html/</loc>
+    <loc>https://farason.co/public/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/markdown/</loc>
+    <loc>https://farason.co/public/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/markdown-syntax/</loc>
+    <loc>https://farason.co/public/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/</loc>
+    <loc>https://farason.co/public/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/series/</loc>
+    <loc>https://farason.co/public/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/</loc>
+    <loc>https://farason.co/public/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/series/themes-guide/</loc>
+    <loc>https://farason.co/public/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/privacy/</loc>
+    <loc>https://farason.co/public/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/rich-content/</loc>
+    <loc>https://farason.co/public/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/shortcodes/</loc>
+    <loc>https://farason.co/public/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/placeholder-text/</loc>
+    <loc>https://farason.co/public/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/text/</loc>
+    <loc>https://farason.co/public/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/math-typesetting/</loc>
+    <loc>https://farason.co/public/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/emoji/</loc>
+    <loc>https://farason.co/public/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/post/emoji-support/</loc>
+    <loc>https://farason.co/public/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/about/</loc>
+    <loc>https://farason.co/public/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farason.co/tags/index/</loc>
+    <loc>https://farason.co/public/tags/index/</loc>
   </url>
 </urlset>

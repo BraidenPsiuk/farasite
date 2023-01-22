@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Farason Corporation</title>
-    <link>https://farason.co/tags/</link>
+    <link>https://farason.co/public/tags/</link>
     <description>Recent content in Tags on Farason Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://farason.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://farason.co/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://farason.co/tags/css/</link>
+      <link>https://farason.co/public/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/css/</guid>
+      <guid>https://farason.co/public/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://farason.co/tags/html/</link>
+      <link>https://farason.co/public/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/html/</guid>
+      <guid>https://farason.co/public/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://farason.co/tags/markdown/</link>
+      <link>https://farason.co/public/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/markdown/</guid>
+      <guid>https://farason.co/public/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://farason.co/tags/privacy/</link>
+      <link>https://farason.co/public/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/privacy/</guid>
+      <guid>https://farason.co/public/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://farason.co/tags/shortcodes/</link>
+      <link>https://farason.co/public/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/shortcodes/</guid>
+      <guid>https://farason.co/public/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://farason.co/tags/text/</link>
+      <link>https://farason.co/public/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/text/</guid>
+      <guid>https://farason.co/public/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://farason.co/tags/emoji/</link>
+      <link>https://farason.co/public/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/emoji/</guid>
+      <guid>https://farason.co/public/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://farason.co/tags/index/</link>
+      <link>https://farason.co/public/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://farason.co/tags/index/</guid>
+      <guid>https://farason.co/public/tags/index/</guid>
       <description></description>
     </item>
     
