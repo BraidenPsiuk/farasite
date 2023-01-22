@@ -1,16 +1,16 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://farason.co/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Farason Corporation"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Farason Corporation"
+  description: "We specialize in the design and build of highly reliable and productive flexible automation and robotic systems designed for rigorous 24/7 operation."
   images: 
     - "images/hero-image.png"
 
