@@ -1,0 +1,4 @@
+baseURL = 'https://farason.co/'
+languageCode = 'en-us'
+title = 'Farason Corporation'
+theme = 'raditian'
