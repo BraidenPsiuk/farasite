@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "We work with **Industry Leaders** in Robotics Manufacturing"
+  text: "Farason works hard to deliver custom automation solutions that fit the needs of our customers. Contact us today to find out how we can fufill your manufacturing needs."
+
+  buttonPrimary:
+    label: "Success stories"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
