@@ -64,8 +64,10 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Farason"
-    text2 = "Test Website"
+    text1 = "title1234"
+    text2 = "subtitle5678"
+    [params.logo.farason_logo]
+        x = "img/general/farason-main-logo.png"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
