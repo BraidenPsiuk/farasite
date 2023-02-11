@@ -66,10 +66,10 @@ theme = "raditian"
 
   [params.logo]
     text1 = "FARASON"
-    # text2 = "Industry Leaders"
+    text2 = "Industry Leaders"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Farason Corporation."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
