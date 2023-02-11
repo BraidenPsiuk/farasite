@@ -4,6 +4,3 @@
 [submodule "themes/h386"]
 	path = themes/h386
 	url = https://gitlab.com/maxlefou/hugo.386.git
-[submodule "themes/raditian"]
-	path = themes/raditian
-	url = https://github.com/radity/raditian-free-hugo-theme.git
