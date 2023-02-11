@@ -1,0 +1,12 @@
+/* You can customize theme styles here */
+
+/* Farason colors */
+.header .navbar-brand span:first-child {
+    color: #6c1c22;
+}
+.experience__company {
+    color: #6c1c22;
+}
+.testimonial__author-info span {
+    color: #6c1c22;
+}
