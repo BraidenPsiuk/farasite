@@ -1,5 +1,6 @@
 /* You can customize theme styles here */
 
+
 /* Farason colors */
 .header .navbar-brand span:first-child {
     color: #6c1c22;
@@ -10,3 +11,36 @@
 .testimonial__author-info span {
     color: #6c1c22;
 }
+
+/* Header image, HACKY */
+.img-responsive {
+    /* border: 1px dotted blue; */
+    max-height: none;
+    /* height: 1000000px; */
+}
+
+.navbar-brand {
+    /* border: 1px dashed red; */
+}
+
+
+
+/* .header .navbar-brand {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    align-items: flex-start;
+    margin-right: 0;
+} */
+
+/* .header .navbar-brand {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack:justify;
+    justify-content:stretch;
+    -webkit-box-align:stretch;
+    align-items:stretch;
+    margin-right: 0;
+  } */

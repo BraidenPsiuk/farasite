@@ -28,11 +28,11 @@ theme = "raditian"
 
   [[menu.header]]
   name = "About"
-  URL = "#about"
+  URL = "#experience"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "Customers"
   URL = "#portfolio"
   weight = 3
 

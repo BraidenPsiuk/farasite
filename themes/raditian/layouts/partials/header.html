@@ -4,12 +4,14 @@
       <a class="navbar-brand" href="{{ .Site.BaseURL | absURL }}">
         <!-- <span>{{ .Site.Params.logo.text1 }}</span>
         <span>{{ .Site.Params.logo.text2 }}</span> -->
-        <img
-          class="img-responsive"
-          src="img/general/logo-dark.png"
-          srcset="img/general/logo-dark.png 1x, img/general/logo-dark@2x.png 2x"
-          alt="Header Logo"
-        />
+        <div id="navbar-brand-boundingbox">
+          <img
+            class="img-responsive"
+            src="img/general/logo.png"
+            srcset="img/general/logo.png 1x, img/general/logo@2x.png 2x"
+            alt="Farason Corporation"
+          />
+        </div>
       </a>
       <button
         class="navbar-toggler"
